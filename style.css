@@ -6,7 +6,7 @@
   box-sizing: border-box;
   padding: 0%;
   margin: 0px;
-  /* margin: 2%; */
+  margin: 2%;
 }
 
 .topnav {
@@ -22,6 +22,7 @@
   vertical-align: middle;
   padding-top: 15px;
   display: inline-flexbox;
+  
   margin: 0%;
 }
 
@@ -85,9 +86,22 @@ margin-bottom: 0%;
   margin-top: 0%;
   margin-bottom: 0%;
   padding-top: 0%;
+  wra
 }
 
 .title {
+  margin-top: 0%;
+  margin-bottom: 0%;
+  padding-bottom: 0%;
+}
+
+.title2 {
+  margin-top: 0%;
+  margin-bottom: 0%;
+  padding-bottom: 0%;
+}
+
+.title3 {
   margin-top: 0%;
   margin-bottom: 0%;
   padding-bottom: 0%;
@@ -191,9 +205,8 @@ display: inline-block;
 
 }
 
-.contact {
-  display: block;
-  
+.contactpage {
+  display:block;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -280,5 +293,3 @@ button {
 } */
 
 /* @media () */
-
-
